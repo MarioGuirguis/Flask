@@ -1,0 +1,10 @@
+body {
+    max-width: max-content;
+    margin: auto;
+    font-family: sans-serif;
+    background-color: rgb(48, 48, 48);
+    color: aqua;
+}
+h2{
+    text-align: center;
+}
